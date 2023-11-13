@@ -1,2 +1,1 @@
-# clase
-programacion
+# clases
